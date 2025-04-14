@@ -33,7 +33,7 @@ Currently, I’m diving into the following areas:
 ## 🚀🧑‍💻 Projects
 - **[ESHOP](https://github.com/GPA95/ESHOP)**: A Python-based e-commerce project with product listing, user authentication, shopping cart, and order processing, integrating an SQL database.
 - **[Tourism Dataset Analytics](https://github.com/GPA95/Tourism-Dataset-Analytics)**: Analyzing tourism data to identify patterns and trends, using Python libraries for data analytics and visualization.
-- **[Spherical Robot](https://github.com/GPA95/SphericalRobot)**: Enhancing the accuracy of robot motion via **MATLAB & Simulink**. Currently working on improving the Android app that communicates with the robot via **Wi-Fi** and sends directional commands to control movement. The app is built to provide real-time control of the robot.
+- **[Spherical Robot](https://github.com/abdulmalik812/SphericalRobot)**: Enhancing the accuracy of robot motion via **MATLAB & Simulink**. Currently working on improving the Android app that communicates with the robot via **Wi-Fi** and sends directional commands to control movement. The app is built to provide real-time control of the robot.
 - **[AAK Portfolio](https://github.com/GPA95/AAK_Portfolio)**: A modern, responsive personal portfolio website built with **React.js** ⚛️ and **Vite**. It features a dynamic theme toggle, project showcase, and interactive skill highlights, providing a professional way to display my work and skills.
 
 ## 💡🧑‍💻 Project Ideas
