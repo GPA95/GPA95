@@ -21,7 +21,7 @@ Currently exploring and building in:
 - **Programming**: C Programming, DSA in C, Java (OOPs), Python, HTML, CSS, JavaScript
 - **Advanced Topics**: Full-Stack Development (React.js, API Integration), DBMS (SQL)
 - **Study Tools**: Google Drive 📂 for managing and sharing notes, books, PYQs, PPTs, assignments
-- **Productivity**: Excel/Sheets 📊 to track courses, timetables, feedback, and more
+- **Productivity**: Excel/Sheets 📊 and Notion templates to track courses, timetables, feedback, and more
 
 ### 🤖 Internship Experience
 - **Student Intern @ Integral Robotics Lab (IRL)**
@@ -45,12 +45,11 @@ Currently exploring and building in:
 
 ### ⚙️ Technologies & Domains:
 - **AI/ML & Data Analysis** 📊
-- **Web Development**: React.js ⚛️, Node.js
-- **Robotics**: Arduino, NodeMCU, MATLAB + Simulink
+- **Web Development** 🌐
+- **Robotics 🤖**
 
 ### 🧩 Tools & Platforms:
-`MATLAB` `Simulink` `Arduino IDE` `Git/GitHub`  
-`Google Drive` `Excel/Sheets` `Jupyter` `VS Code` `Canva` `MIT App Inventor`
+`MATLAB` `Simulink` `Arduino IDE` `Git/GitHub` `Google Drive` `Notion` `Excel/Sheets` `Jupyter` `VS Code` `Canva` `MIT App Inventor`
 
 ---
 
