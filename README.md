@@ -68,11 +68,14 @@ Currently exploring and building in:
 ### 1. 📚 **Study Materials Website**
 A collaborative platform for students to upload, access, and manage academic resources — notes, books, past papers, and solutions. Promotes community-driven learning.
 
-### 2. 🏫 **School/College Management App**
-A comprehensive mobile/web app for students:  
-- View timetables, assignments, quizzes, teacher info  
-- Receive notifications and feedback  
-- Stay organized academically  
+### 2. 📘 **School/College Management App**  
+While I’ve already built a custom **college dashboard as a Notion template** for manual tracking, the next step is to build a **more automated version** — one that can integrate with college portals, support real-time updates, and offer deeper functionality through a full-stack web or mobile application.
+
+This comprehensive app will help students:
+
+- View timetables, assignments, quizzes, and teacher info  
+- Receive notifications, feedback, and reminders  
+- Stay organized academically with a centralized system
 
 ---
 
@@ -80,8 +83,9 @@ A comprehensive mobile/web app for students:
 
 I’m always open to collaboration, networking, or friendly discussions around tech, education, or innovation.
 
-[![Email](https://img.shields.io/badge/📧%20Email-grey?style=for-the-badge)](mailto:ammaarahmadkhan16@example.com)
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/ammaar-ahmad-khan-0044b9320)
+[![Visit My Portfolio](https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-purple?style=for-the-badge&logo=earth)](https://ammaar-portfolio-website.vercel.app/)
+[![Email](https://img.shields.io/badge/📧%20Email-orange?style=for-the-badge&logo=email)](mailto:ammaarahmadkhan16@example.com)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammaar-ahmad-khan-0044b9320)
 
 > _"I aspire to be productive, collaborative, and inspirational."_ 💬
 
