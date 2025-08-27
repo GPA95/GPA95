@@ -61,6 +61,7 @@ Currently exploring and building in:
 - [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot): Built with **MATLAB & Simulink**, features real-time Android app control over Wi-Fi. Contributes to motion accuracy and mobile interaction.
 - [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio): A responsive portfolio website built using **React.js** + **Vite**, featuring dynamic theme switching, categorized skills, and project highlights.
 - [**Student Academic Workspace**](https://github.com/GPA95/Student_Academic_Workspace_Notion): A Notion dashboard template to organize your college life – timetable, assignment & quiz tracking, calendar, exams & more.
+- [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz): Data visualization project on retail transactions using **Python** & **Tableau**. Analyzes sales trends, customer segmentation, and geographical demand to generate actionable business insights.
 
 ---
 
