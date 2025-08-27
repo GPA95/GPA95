@@ -2,7 +2,7 @@
 
 I'm an **undergraduate student** in **Computer Science and Engineering** with a strong passion for:
 
-- **AI ֎**
+- **AI & ML ֎**
 - **Data Analysis 📊**
 - **Software Development 💻**
 - **Robotics 🤖**
