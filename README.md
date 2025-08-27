@@ -31,9 +31,10 @@ Currently exploring and building in:
 ---
 
 ## 💡 What I Do
-- 🧠 Develop software solutions using **Python**, **C++**, **Java**
+- 💻 Develop software solutions using **Python**, **C++**, **Java**
 - 🌐 Build modern **web apps** with **React.js** & APIs
 - 📊 Analyze and visualize data using **Pandas**, **NumPy**, **Matplotlib**
+- 🧠 Study and practice **AI/ML** to grow in intelligent systems
 - 🤖 Work on real-world robotics projects like **autonomous spherical robots**
 
 ---
