@@ -17,16 +17,17 @@ I enjoy transforming complex problems into solutions using my programming and an
 - **Relevant Topics**: Python (with Pandas, NumPy, Matplotlib), SQL
 
 ### 🎓 B.Tech in Computer Science & Engineering – Integral University, Lucknow
-Currently exploring and building in:
-- **Programming**: C Programming, DSA in C, Java (OOPs), Python, HTML, CSS, JavaScript
-- **Advanced Topics**: Full-Stack Development (React.js, API Integration), DBMS (SQL)
-- **Study Tools**: Google Drive 📂 for managing and sharing notes, books, PYQs, PPTs, assignments
-- **Productivity**: Excel/Sheets 📊 and Notion templates to track courses, timetables, feedback, and more
+Currently exploring and building in:  
+- **💻 Core Programming & CS Fundamentals**: C Programming, Data Structures & Algorithms (DSA in C), Design and Analysis of Algorithms (DAA), Java (OOPs), Python  
+- **🌐 Web Development**: Frontend – HTML, CSS, JavaScript, React.js; Backend – Node.js, Express.js, MongoDB (MERN Stack); API Integration  
+- **📱 Mobile App Development**: Basics of Android app development with practical projects  
+- **🗄️ Databases**: SQL (DBMS concepts, queries, optimization), MongoDB (NoSQL, CRUD operations, Mongoose)
+- **📈 Productivity & Study Tools**: Google Drive 📂 for managing notes, PYQs, PPTs; Spreadsheets 📊 and Notion templates for tracking courses, timetables, and feedback  
 
 ### 🤖 Internship Experience
 - **Student Intern @ Integral Robotics Lab (IRL)**
   - Worked with Arduino IDE, LEDs, sensors, Servo/DC motors, NodeMCU ESP8266
-  - Currently working on **PDSR (Pendulum-Driven Spherical Robot)**
+  - Worked on **PDSR (Pendulum-Driven Spherical Robot)**
 
 ---
 
@@ -50,7 +51,7 @@ Currently exploring and building in:
 - **Robotics 🤖**
 
 ### 🧩 Tools & Platforms:
-`MATLAB` `Simulink` `Arduino IDE` `Git/GitHub` `Google Drive` `Notion` `Excel/Sheets` `Jupyter` `VS Code` `Canva` `MIT App Inventor`
+`MATLAB` `Simulink` `Arduino IDE` `Git/GitHub` `Google Drive` `Notion` `Excel/Sheets` `Jupyter` `VS Code` `Tableau` `Canva` `MIT App Inventor`
 
 ---
 
