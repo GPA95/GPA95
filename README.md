@@ -5,7 +5,7 @@ I'm an **undergraduate student** in **Computer Science and Engineering** with a 
 - **AI & ML ֎**
 - **Data Analysis 📊**
 - **Software Development 💻**
-- **Robotics 🤖**
+- **Robotics Software 🤖**
 
 I enjoy transforming complex problems into solutions using my programming and analytical skills.
 
