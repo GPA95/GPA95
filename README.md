@@ -1,84 +1,96 @@
-# Hi there, I'm Ammaar Ahmad Khan 👋
-
-I'm an **undergraduate student** in **Computer Science and Engineering** with a strong passion for:
-
-- **AI & ML ֎**
-- **Data Analysis 📊**
-- **Software Development 💻**
-- **Robotics Software 🤖**
-
-I enjoy transforming complex problems into solutions using my programming and analytical skills.
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm <a href="https://ammaar-portfolio-website.vercel.app/">Ammaar Ahmad Khan 👋</a></h1>
+<h3 align="center">💻 CSE Undergrad | AI & ML Enthusiast | Full-Stack Developer | Data Analyst</h3>
 
 ---
 
-## 🎓 Education & Experience
+### 🚀 About Me
+I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent and impactful systems.  
+I enjoy creating things that blend logic, design, and real-world utility — from web apps to AI tools.
 
-### 🏫 International Indian School Jeddah (Senior Secondary)
-- **Relevant Topics**: Python (with Pandas, NumPy, Matplotlib), SQL
-
-### 🎓 B.Tech in Computer Science & Engineering – Integral University, Lucknow
-Currently exploring and building in:  
-- **💻 Core Programming & CS Fundamentals**: C Programming, Data Structures & Algorithms (DSA in C), Design and Analysis of Algorithms (DAA), Java (OOPs), Python  
-- **🌐 Web Development**: Frontend – HTML, CSS, JavaScript, React.js; Backend – Node.js, Express.js, MongoDB (MERN Stack); API Integration  
-- **📱 Mobile App Development**: Basics of Android app development with practical projects  
-- **🗄️ Databases**: SQL (DBMS concepts, queries, optimization), MongoDB (NoSQL, CRUD operations, Mongoose)
-- **📈 Productivity & Study Tools**: Google Drive 📂 for managing notes, PYQs, PPTs; Spreadsheets 📊 and Notion templates for tracking courses, timetables, and feedback  
-
-### 🤖 Internship Experience
-- **Student Intern @ Integral Robotics Lab (IRL)**
-  - Worked with Arduino IDE, LEDs, sensors, Servo/DC motors, NodeMCU ESP8266
-  - Worked on **PDSR (Pendulum-Driven Spherical Robot)**
+- 🔭 Currently working on: **AI Study Buddy** – an AI-powered study assistant using Streamlit + Gemini API  
+- 🌱 Learning: **Artificial Intelligence**, **Machine Learning**, **Backend Development**, and **Cloud Deployment**  
+- 💡 Interests: **Artificial Intelligence**, **Machine Learning**, **Full-Stack Web Development**, **Data Visualization**, **Robotics Software**  
+- 🎯 Goal: Build projects that combine innovation and practical use  
 
 ---
 
-## 💡 What I Do
-- 💻 Develop software solutions using **Python**, **C++**, **Java**
-- 🌐 Build modern **web apps** with **React.js** & APIs
-- 📊 Analyze and visualize data using **Pandas**, **NumPy**, **Matplotlib**
-- 🧠 Study and practice **AI/ML** to grow in intelligent systems
-- 🤖 Work on real-world robotics projects like **autonomous spherical robots**
+### 🧠 Tech Stack
 
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Programming Languages:
+**Languages:**  
 `Python` `C` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
 
-### ⚙️ Technologies & Domains:
-- **AI/ML & Data Analysis** 📊
-- **Web Development** 🌐
-- **Robotics 🤖**
+**Frameworks & Tools:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Git/GitHub` `Tableau` `Arduino IDE`
 
-### 🧩 Tools & Platforms:
-`MATLAB` `Simulink` `Arduino IDE` `Git/GitHub` `Google Drive` `Notion` `Excel/Sheets` `Jupyter` `VS Code` `Tableau` `Canva` `MIT App Inventor`
-
----
-
-## 🚀 Projects
-
-- [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz): Data visualization project on retail transactions using **Python** & **Tableau**. Analyzes sales trends, customer segmentation, and geographical demand to generate actionable business insights.
-- [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics): Data analytics and visualization project analyzing tourism trends using Pandas, NumPy, and Matplotlib.
-- [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot): Built with **MATLAB & Simulink**, features real-time Android app control over Wi-Fi. Contributes to motion accuracy and mobile interaction.
-- [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio): A responsive portfolio website built using **React.js** + **Vite**, featuring dynamic theme switching, categorized skills, and project highlights.
-- [**ESHOP**](https://github.com/GPA95/ESHOP): A Python-based e-commerce platform with login, cart, product listings, and an integrated SQL database.
-- [**Student Academic Workspace**](https://github.com/GPA95/Student_Academic_Workspace_Notion): A Notion dashboard template to organize your college life – timetable, assignment & quiz tracking, calendar, exams & more.
+**Domains:**  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Analysis & Visualization  
+- 🌐 Web Development (MERN Stack)  
+- ⚙️ Automation & Robotics Software  
 
 ---
 
-## 💡 Project Ideas in Progress
+### 💼 Featured Projects
 
-### 1. 📚 **Study Materials Website**
-A collaborative platform for students to upload, access, and manage academic resources — notes, books, past papers, and solutions. Promotes community-driven learning.
+- 🧠 [**AI Study Buddy**](https://github.com/GPA95/AI_StudyBuddy)  
+  An AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
+  *Tech:* Python, NLP, Streamlit, Gemini API  
 
-### 2. 📘 **School/College Management App**  
-While I’ve already built a custom **college dashboard as a Notion template** for manual tracking, the next step is to build a **more automated version** — one that can integrate with college portals, support real-time updates, and offer deeper functionality through a full-stack web or mobile application.
+- 🌍 [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio)  
+  Responsive React.js portfolio with theme switching, categorized skills, and project showcases.  
 
-This comprehensive app will help students:
+- 🛒 [**ESHOP**](https://github.com/GPA95/ESHOP)  
+  Python + SQL-based e-commerce platform featuring user login, cart, and product management.  
 
-- View timetables, assignments, quizzes, and teacher info  
-- Receive notifications, feedback, and reminders  
-- Stay organized academically with a centralized system
+- 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
+  Data visualization dashboard analyzing retail transactions using **Tableau & Python**.  
+
+- 🧳 [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics)  
+  Statistical and visual insights on tourism data using **Pandas, NumPy, and Matplotlib**.  
+
+- 🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
+  MATLAB & Simulink-based mobile robot controlled via Android app.  
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 💡 Project Ideas & In-Progress Work
+
+### 🧠 **AI Study Buddy**
+An AI-powered **personal study assistant** built with **Streamlit** and **Gemini API**.  
+Currently at its MVP stage, it helps students summarize notes, generate quizzes, and plan study sessions.  
+Next steps include integrating:
+- **Advanced NLP models** for deeper understanding  
+- **Custom memory features** for personalized interactions  
+- **Enhanced UI & modular AI tools** for topic-specific learning  
+
+### 📚 **Study Materials Website**
+A collaborative platform where students can **upload, share, and access** academic resources — notes, books, past papers, and solutions.  
+Focuses on **community-driven learning** and **smart content organization**.  
+
+### 🏫 **School / College Management App**
+Evolving from my existing **Notion-based college dashboard**, this project aims to create a **full-stack web or mobile app** that automates academic tracking.  
+Planned features:
+- 📅 View timetables, assignments, quizzes, and faculty info  
+- 🔔 Real-time notifications and feedback  
+- 🧾 Centralized academic record management  
 
 ---
 
