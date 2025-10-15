@@ -4,6 +4,23 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
 ### 🚀 About Me
 I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent and impactful systems.  
 I enjoy creating things that blend logic, design, and real-world utility — from web apps to AI tools.
@@ -51,23 +68,6 @@ I enjoy creating things that blend logic, design, and real-world utility — fro
 
 - 🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
   MATLAB & Simulink-based mobile robot controlled via Android app.  
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
 
 ---
 
