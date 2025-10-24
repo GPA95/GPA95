@@ -7,11 +7,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=radical" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=radical" height="160" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
