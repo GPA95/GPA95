@@ -1,47 +1,106 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <a href="https://ammaar-portfolio-website.vercel.app/">Ammaar Ahmad Khan 👋</a></h1>
-<h3 align="center">💻 CSE Undergrad | AI & ML Enthusiast | Full-Stack Developer | Data Analyst</h3>
+<h1 align="center">Hi there, I'm <a href="https://ammaar-portfolio-website.netlify.app/">Ammaar Ahmad Khan 👋</a></h1>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=radical" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=radical" height="160" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
----
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=CSE+Junior;AI+%26+ML+Enthusiast;Full-Stack+Developer;Data+Analyst;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</h1>
 
 ### 🚀 About Me
-I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent and impactful systems.  
-I enjoy creating things that blend logic, design, and real-world utility — from web apps to AI tools.
 
-- 🔭 Currently working on: **AI Study Buddy** – an AI-powered study assistant using Streamlit + Gemini API  
-- 🌱 Learning: **Artificial Intelligence**, **Machine Learning**, **Backend Development**, and **Cloud Deployment**  
-- 💡 Interests: **Artificial Intelligence**, **Machine Learning**, **Full-Stack Web Development**, **Data Visualization**, **Robotics Software**  
-- 🎯 Goal: Build projects that combine innovation and practical use  
+I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
+I love creating things that blend **logic, design, and real-world utility** — from smart web apps to AI-driven tools.
+
+- 🔭 Currently working on: **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*  
+- 🌱 Learning: **Machine Learning**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
+- 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
+- 🎯 Goal: Build projects that merge **innovation with practicality**  
+- 💬 Fun Fact: Every repo I make reflects my journey — from learning to leading.
+> _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
 
 ---
 
 ### 🧠 Tech Stack
 
-**Languages:**  
-`Python` `C` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies & Tools</th>
+  </tr>
 
-**Frameworks & Tools:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Git/GitHub` `Tableau` `Arduino IDE`
+  <!-- Programming Languages -->
+  <tr>
+    <td align="center"><b>💻 Programming Languages</b></td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /> Python &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" /> C &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" /> C++ &nbsp;
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /> Java &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" /> JavaScript
+    </td>
+  </tr>
+
+  <!-- Frontend Development -->
+  <tr>
+    <td align="center"><b>🎨 Frontend Development</b></td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="50" height="50" /> React.js &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" /> HTML &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" /> CSS
+    </td>
+  </tr>
+
+  <!-- Backend Development -->
+  <tr>
+    <td align="center"><b>⚙️ Backend Development</b></td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" /> Node.js &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" /> Express.js &nbsp;
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API" width="50" height="50" /> APIs
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" /> MongoDB &nbsp;
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50" /> SQL
+    </td>
+  </tr>
+
+  <!-- Data Science & Visualization -->
+  <tr>
+    <td align="center"><b>📊 Data Science & Visualization</b></td>
+    <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="50" height="50" /> Numpy &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" /> Pandas &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /> Matplotlib &nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" /> Seaborn &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="50" height="50" /> Plotly &nbsp;
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" /> Streamlit &nbsp;
+  </td>
+  </tr>
+
+  <!-- Tools & Platforms -->
+  <tr>
+    <td align="center"><b>🧰 Tools & Platforms</b></td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" /> Git &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="50" height="50" /> GitHub &nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" /> Tableau &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" /> MATLAB &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" /> Arduino IDE &nbsp;
+      <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="50" height="50" /> Netlify
+    </td>
+  </tr>
+</table>
 
 **Domains:**  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data Analysis & Visualization  
-- 🌐 Web Development (MERN Stack)  
+- 🌐 Full-Stack Web Development (MERN)  
 - ⚙️ Automation & Robotics Software  
 
 ---
@@ -49,57 +108,86 @@ I enjoy creating things that blend logic, design, and real-world utility — fro
 ### 💼 Featured Projects
 
 - 🧠 [**AI Study Buddy**](https://github.com/GPA95/AI_StudyBuddy)  
-  An AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
+  AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
   *Tech:* Python, NLP, Streamlit, Gemini API  
 
 - 🌍 [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio)  
-  Responsive React.js portfolio with theme switching, categorized skills, and project showcases.  
+  Responsive **React.js portfolio** with theme switching, categorized skills, and project showcases.  
 
 - 🛒 [**ESHOP**](https://github.com/GPA95/ESHOP)  
-  Python + SQL-based e-commerce platform featuring user login, cart, and product management.  
+  Python + SQL-based e-commerce platform with user login, cart, and product management.  
 
 - 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
-  Data visualization dashboard analyzing retail transactions using **Tableau & Python**.  
+  Retail transaction analytics dashboard using **Tableau & Python**.  
 
 - 🧳 [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics)  
-  Statistical and visual insights on tourism data using **Pandas, NumPy, and Matplotlib**.  
+  Tourism data analysis using **Pandas, NumPy, and Matplotlib**.  
 
 - 🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
   MATLAB & Simulink-based mobile robot controlled via Android app.  
 
 ---
 
-## 💡 Project Ideas & In-Progress Work
+### 💡 Project Ideas & In-Progress Work
 
-### 🧠 **AI Study Buddy**
-An AI-powered **personal study assistant** built with **Streamlit** and **Gemini API**.  
-Currently at its MVP stage, it helps students summarize notes, generate quizzes, and plan study sessions.  
-Next steps include integrating:
-- **Advanced NLP models** for deeper understanding  
-- **Custom memory features** for personalized interactions  
-- **Enhanced UI & modular AI tools** for topic-specific learning  
+#### 🧠 **AI Study Buddy**
+AI-powered **personal study assistant** with **Streamlit** and **Gemini API**, currently at MVP stage.  
+Next steps:
+- 🔹 Advanced NLP models for deeper contextual learning  
+- 🔹 Memory-based personalization for user preferences  
+- 🔹 Modular UI with topic-specific AI tools  
 
-### 📚 **Study Materials Website**
-A collaborative platform where students can **upload, share, and access** academic resources — notes, books, past papers, and solutions.  
-Focuses on **community-driven learning** and **smart content organization**.  
+#### 📚 **Study Materials Website**
+Community-based platform for sharing **notes, books, past papers, and solutions**.  
+Aims for **smart content organization** and **AI-driven search**.  
 
-### 🏫 **School / College Management App**
-Evolving from my existing **Notion-based college dashboard**, this project aims to create a **full-stack web or mobile app** that automates academic tracking.  
-Planned features:
-- 📅 View timetables, assignments, quizzes, and faculty info  
-- 🔔 Real-time notifications and feedback  
-- 🧾 Centralized academic record management  
+#### 🏫 **School / College Management App**
+Evolving from my Notion-based dashboard — a **full-stack academic tracker** that automates student workflows:  
+- 📅 Timetables, assignments, quizzes, and faculty info  
+- 🔔 Notifications and academic reminders  
+- 🧾 Performance visualization & progress tracking  
 
 ---
 
-## 😊 Let's Connect!
+### 📊 GitHub Analytics
 
-I’m always open to collaboration, networking, or friendly discussions around tech, education, or innovation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=default" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=default" height="160" />
+</p>
 
-[![Visit My Portfolio](https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-purple?style=for-the-badge&logo=earth)](https://ammaar-portfolio-website.vercel.app/)
-[![Email](https://img.shields.io/badge/📧%20Email-orange?style=for-the-badge&logo=email)](mailto:ammaarahmadkhan16@example.com)
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammaar-ahmad-khan-0044b9320)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GPA95&theme=flat&column=6&margin-w=10&margin-h=10" />
+</div>
 
-> _"I aspire to be productive, collaborative, and inspirational."_ 💬
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Jokes Card" />
+</div>
 
 ---
+
+### 😊 Let's Connect!
+
+I’m always open to collaboration, networking, or friendly discussions about tech, education, or innovation.
+
+<p align="center">
+  <a href="https://ammaar-portfolio-website.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-purple?style=for-the-badge&logo=earth" />
+  </a>
+  <a href="mailto:ammaarahmadkhan16@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-orange?style=for-the-badge&logo=email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ammaar-ahmad-khan/">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
