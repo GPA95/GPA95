@@ -16,7 +16,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
 - 🌱 Learning: **Machine Learning**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
 - 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
 - 🎯 Goal: Build projects that merge **innovation with practicality**  
-- 💬 Fun Fact: Every repo I make reflects my journey — from learning to leading.
+- 💬 Fun Fact: Every repo I make reflects my journey — learning ➡️ building ➡️ deployment.
 > _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
 
 ---
@@ -166,10 +166,6 @@ Evolving from my Notion-based dashboard — a **full-stack academic tracker** th
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Jokes Card" />
-</div>
 
 ---
 
