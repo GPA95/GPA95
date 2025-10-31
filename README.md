@@ -33,11 +33,11 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>💻 Programming Languages</b></td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /> Python &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" /> C &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" /> C++ &nbsp;
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /> Java &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" /> JavaScript
+      <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" />
     </td>
   </tr>
 
@@ -45,9 +45,9 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🎨 Frontend Development</b></td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="50" height="50" /> React.js &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" /> HTML &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" /> CSS
+      <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" />
     </td>
   </tr>
 
@@ -55,9 +55,9 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>⚙️ Backend Development</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" /> Node.js &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" /> Express.js &nbsp;
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API" width="50" height="50" /> APIs
+      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" />
+      <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="API" width="50" height="50" />
     </td>
   </tr>
 
@@ -65,8 +65,8 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🗄️ Databases</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" /> MongoDB &nbsp;
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50" /> SQL
+      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="SQL" width="50" height="50" />
     </td>
   </tr>
 
@@ -74,12 +74,12 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>📊 Data Science & Visualization</b></td>
     <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="50" height="50" /> Numpy &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" /> Pandas &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /> Matplotlib &nbsp;
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" /> Seaborn &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="50" height="50" /> Plotly &nbsp;
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" /> Streamlit &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="50" height="50" />
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" />
   </td>
   </tr>
 
@@ -87,12 +87,12 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🧰 Tools & Platforms</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" /> Git &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="50" height="50" /> GitHub &nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" /> Tableau &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" /> MATLAB &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" /> Arduino IDE &nbsp;
-      <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="50" height="50" /> Netlify
+      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="50" height="50" />
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="50" height="50" />
     </td>
   </tr>
 </table>
