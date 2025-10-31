@@ -3,7 +3,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=CSE+Junior;AI+%26+ML+Enthusiast;Full-Stack+Developer;Data+Analyst;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=1200&lines=CSE+Junior;AI+%26+ML+Enthusiast;Full-Stack+Developer;Data+Analyst;Always+Learning+Something+New" 
+    alt="Typing SVG" />
   </a>
 </h1>
 
@@ -33,10 +34,10 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>💻 Programming Languages</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" />
     </td>
   </tr>
@@ -45,8 +46,8 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🎨 Frontend Development</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" />
     </td>
   </tr>
@@ -55,8 +56,8 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>⚙️ Backend Development</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" /> &nbsp;
       <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="API" width="50" height="50" />
     </td>
   </tr>
@@ -65,7 +66,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🗄️ Databases</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="SQL" width="50" height="50" />
     </td>
   </tr>
@@ -74,11 +75,11 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>📊 Data Science & Visualization</b></td>
     <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="50" height="50" />
+    <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="50" height="50" /> &nbsp;
+    <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="50" height="50" /> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /> &nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" /> &nbsp;
+    <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" alt="Plotly" width="50" height="50" /> &nbsp;
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" />
   </td>
   </tr>
@@ -87,11 +88,11 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🧰 Tools & Platforms</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="50" height="50" />
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="GitHub" width="50" height="50" /> &nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" /> &nbsp;
+      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="50" height="50" />
     </td>
   </tr>
