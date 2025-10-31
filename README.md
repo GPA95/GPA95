@@ -36,7 +36,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
     <td align="center">
       <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C++" width="50" height="50" /> &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" />
     </td>
