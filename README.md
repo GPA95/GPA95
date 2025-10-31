@@ -8,6 +8,24 @@
   </a>
 </h1>
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=default" height="160" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GPA95&theme=flat&column=6&margin-w=10&margin-h=10" />
+</div>
+
+---
+
 ### 🚀 About Me
 
 I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
@@ -108,24 +126,23 @@ I love creating things that blend **logic, design, and real-world utility** — 
 
 ### 💼 Featured Projects
 
-- 🧠 [**AI Study Buddy**](https://github.com/GPA95/AI_StudyBuddy)  
+🧠 [**AI Study Buddy**](https://github.com/GPA95/AI_StudyBuddy)  
   AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
-  *Tech:* Python, NLP, Streamlit, Gemini API  
 
-- 🌍 [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio)  
+📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
+  Retail transaction analytics dashboard using **Tableau & Python**.
+  
+🧳 [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics)  
+  Tourism data analysis using **Pandas, NumPy, and Matplotlib**.
+  
+🌍 [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio)  
   Responsive **React.js portfolio** with theme switching, categorized skills, and project showcases.  
 
-- 🛒 [**ESHOP**](https://github.com/GPA95/ESHOP)  
-  Python + SQL-based e-commerce platform with user login, cart, and product management.  
-
-- 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
-  Retail transaction analytics dashboard using **Tableau & Python**.  
-
-- 🧳 [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics)  
-  Tourism data analysis using **Pandas, NumPy, and Matplotlib**.  
-
-- 🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
+🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
   MATLAB & Simulink-based mobile robot controlled via Android app.  
+
+🛒 [**ESHOP**](https://github.com/GPA95/ESHOP)  
+  Python + SQL-based e-commerce platform with user login, cart, and product management.  
 
 ---
 
@@ -134,9 +151,9 @@ I love creating things that blend **logic, design, and real-world utility** — 
 #### 🧠 **AI Study Buddy**
 AI-powered **personal study assistant** with **Streamlit** and **Gemini API**, currently at MVP stage.  
 Next steps:
-- 🔹 Advanced NLP models for deeper contextual learning  
-- 🔹 Memory-based personalization for user preferences  
-- 🔹 Modular UI with topic-specific AI tools  
+- Advanced NLP models for deeper contextual learning  
+- Memory-based personalization for user preferences  
+- Modular UI with topic-specific AI tools  
 
 #### 📚 **Study Materials Website**
 Community-based platform for sharing **notes, books, past papers, and solutions**.  
@@ -144,29 +161,9 @@ Aims for **smart content organization** and **AI-driven search**.
 
 #### 🏫 **School / College Management App**
 Evolving from my Notion-based dashboard — a **full-stack academic tracker** that automates student workflows:  
-- 📅 Timetables, assignments, quizzes, and faculty info  
-- 🔔 Notifications and academic reminders  
-- 🧾 Performance visualization & progress tracking  
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=default" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=default" height="160" />
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GPA95&theme=flat&column=6&margin-w=10&margin-h=10" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GPA95&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+📅 Timetables, assignments, quizzes, and faculty info  
+🔔 Notifications and academic reminders  
+🧾 Performance visualization & progress tracking  
 
 ---
 
