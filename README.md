@@ -126,7 +126,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
 
 ### 💼 Featured Projects
 
-🧠 [**AI Study Buddy**](https://github.com/GPA95/AI_StudyBuddy)  
+🧠 [**SGPA: Study Guide & Personal Assistant**](https://github.com/GPA95/SGPA)  
   AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
 
 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
