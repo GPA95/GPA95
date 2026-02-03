@@ -60,20 +60,13 @@ I love creating things that blend **logic, design, and real-world utility** — 
     </td>
   </tr>
 
-  <!-- Frontend Development -->
+
   <tr>
-    <td align="center"><b>🎨 Frontend Development</b></td>
+    <td align="center"><b>🌐 Full-Stack Web Development</b></td>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" />
-    </td>
-  </tr>
-
-  <!-- Backend Development -->
-  <tr>
-    <td align="center"><b>⚙️ Backend Development</b></td>
-    <td align="center">
       <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" /> &nbsp;
       <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" /> &nbsp;
       <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="API" width="50" height="50" />
@@ -95,6 +88,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
     <td align="center">
     <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="50" height="50" /> &nbsp;
     <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="50" height="50" /> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Sciit-Learn" width="60" height="60" /> &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /> &nbsp;
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" /> &nbsp;
     <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" alt="Plotly" width="50" height="50" /> &nbsp;
