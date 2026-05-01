@@ -3,10 +3,25 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=48&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=CSE+Junior;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Full-Stack+Web+Development;Research+%26+Projects" 
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=CSE+Junior;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Natural+Language+Processing;Generative+AI;Full-Stack+Web+Development;Research+%26+Projects" 
     alt="Typing SVG" />
   </a>
 </h1>
+
+### 🚀 About Me
+
+I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
+I love creating things that blend **logic, design, and real-world utility** — AI‑powered study tools, analytics dashboards, and practical web apps.
+
+- 🌟 Top Project: **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*  
+- 🌱 Learning: **Machine Learning**, **Natural Language Processing**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
+- 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
+- 🎯 Goal: Build projects that merge **innovation with practicality**  
+- 💬 Fun Fact: Every repo I make reflects my journey — _learning ➡️ building ➡️ deployment_.
+- 🤝 Open to: project collaborations, data/AI internships, and AI‑driven edtech ideas.
+> _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
+
+---
 
 ### 📊 GitHub Analytics
 
@@ -23,20 +38,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GPA95&theme=flat&column=6&margin-w=10&margin-h=10" />
 </div>
-
----
-
-### 🚀 About Me
-
-I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
-I love creating things that blend **logic, design, and real-world utility** — from smart web apps to AI-driven tools.
-
-- 🔭 Currently working on: **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*  
-- 🌱 Learning: **Machine Learning**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
-- 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
-- 🎯 Goal: Build projects that merge **innovation with practicality**  
-- 💬 Fun Fact: Every repo I make reflects my journey — learning ➡️ building ➡️ deployment.
-> _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
 
 ---
 
@@ -111,17 +112,16 @@ I love creating things that blend **logic, design, and real-world utility** — 
 </table>
 
 **Domains:**  
-- 🤖 Artificial Intelligence & Machine Learning  
+- 🤖 Artificial Intelligence (ML, NLP, Generative AI)  
 - 📊 Data Analysis & Visualization  
-- 🌐 Full-Stack Web Development (MERN)  
+- 🌐 Full-Stack Web Development (MERN, learning PostgreSQL + Supabase)  
 - ⚙️ Automation & Robotics Software  
-
 ---
 
 ### 💼 Featured Projects
 
 🧠 [**SGPA: Study Guide & Personal Assistant**](https://github.com/GPA95/SGPA)  
-  AI-powered study assistant for personalized learning, note summarization, and quiz generation using **Streamlit + Gemini API**.  
+  AI‑powered study assistant for _summarizing notes, generating quizzes, and explaining topics_ using **Streamlit + Gemini API**.  
 
 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
   Retail transaction analytics dashboard using **Tableau & Python**.
@@ -142,6 +142,11 @@ I love creating things that blend **logic, design, and real-world utility** — 
 
 ### 💡 Project Ideas & In-Progress Work
 
+- Evolving AI Study Buddy into a more personalized, multi‑tool learning companion.
+- Designing a Study Materials platform for notes, PYQs, and solutions.
+- Exploring a college management/academic tracker inspired by my Notion workflows.
+
+<!--
 #### 🧠 **AI Study Buddy**
 AI-powered **personal study assistant** with **Streamlit** and **Gemini API**, currently at MVP stage.  
 Next steps:
@@ -158,7 +163,7 @@ Evolving from my Notion-based dashboard — a **full-stack academic tracker** th
 📅 Timetables, assignments, quizzes, and faculty info  
 🔔 Notifications and academic reminders  
 🧾 Performance visualization & progress tracking  
-
+-->
 ---
 
 ### 😊 Let's Connect!
