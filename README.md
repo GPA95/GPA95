@@ -43,34 +43,40 @@ I love creating things that blend **logic, design, and real-world utility** — 
 
 ### 🧠 Tech Stack
 
+| Category | Technologies & Tools |
+| :------: | -------------------- |
+| 💻 **Programming Languages** | [![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js&perline=7)](https://skillicons.dev) |
+| 🌐 **Full‑Stack Web** | [![Web](https://skillicons.dev/icons?i=react,nodejs,express,html,css&perline=7)](https://skillicons.dev) |
+| 🗄️ **Databases** | [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7)](https://skillicons.dev) |
+| 📊 **Data Science & Visualization** | [![Data](https://skillicons.dev/icons?i=py,sklearn&perline=7)](https://skillicons.dev) `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Tableau` · `Streamlit` |
+| 🧰 **Tools & Platforms** | [![Tools](https://skillicons.dev/icons?i=git,github,matlab,arduino,netlify&perline=7)](https://skillicons.dev) |
+
+### 🧠 Tech Stack
+
 <table align="center">
   <tr>
-    <th>Category</th>
-    <th>Technologies & Tools</th>
+    <th align="center">Category</th>
+    <th align="center">Technologies &amp; Tools</th>
   </tr>
 
   <!-- Programming Languages -->
   <tr>
     <td align="center"><b>💻 Programming Languages</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="50" height="50" /> &nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png" alt="Python" width="40" height="40" /><img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" /><img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java" width="40" height="40" /><img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png" alt="JavaScript" width="40" height="40" />
     </td>
   </tr>
 
-
+  <!-- Full-Stack Web Development -->
   <tr>
-    <td align="center"><b>🌐 Full-Stack Web Development</b></td>
+    <td align="center"><b>🌐 Full‑Stack Web Development</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="50" height="50" />
-      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="50" height="50" /> &nbsp;
-      <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="API" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" alt="React.js" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png" alt="Express.js" width="40" height="40" /><!--
+      <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="REST API" width="40" height="40" />-->
     </td>
   </tr>
 
@@ -78,35 +84,35 @@ I love creating things that blend **logic, design, and real-world utility** — 
   <tr>
     <td align="center"><b>🗄️ Databases</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="SQL" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="SQL" width="40" height="40" />
     </td>
   </tr>
 
   <!-- Data Science & Visualization -->
   <tr>
-    <td align="center"><b>📊 Data Science & Visualization</b></td>
+    <td align="center"><b>📊 Data Science &amp; Visualization</b></td>
     <td align="center">
-    <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="50" height="50" /> &nbsp;
-    <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="50" height="50" /> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Sciit-Learn" width="60" height="60" /> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /> &nbsp;
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" /> &nbsp;
-    <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" alt="Plotly" width="50" height="50" /> &nbsp;
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" />
-  </td>
+      <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="40" height="40" />
+      <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+      <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" alt="Plotly" width="40" height="40" />
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40" />
+    </td>
   </tr>
 
   <!-- Tools & Platforms -->
   <tr>
-    <td align="center"><b>🧰 Tools & Platforms</b></td>
+    <td align="center"><b>🧰 Tools &amp; Platforms</b></td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="GitHub" width="50" height="50" /> &nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="50" height="50" /> &nbsp;
-      <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="50" height="50" />
+      <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="Git" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="GitHub" width="40" height="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="MATLAB" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png" alt="Arduino" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=80&id=YsPdguLCFOMH&format=png" alt="Netlify" width="40" height="40" />
     </td>
   </tr>
 </table>
