@@ -40,17 +40,17 @@ I love creating things that blend **logic, design, and real-world utility** — 
 </div>
 
 ---
-
+<!--
 ### 🧠 Tech Stack
 
 | Category | Technologies & Tools |
 | :------: | -------------------- |
 | 💻 **Programming Languages** | [![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js&perline=7)](https://skillicons.dev) |
-| 🌐 **Full‑Stack Web** | [![Web](https://skillicons.dev/icons?i=react,nodejs,express,html,css&perline=7)](https://skillicons.dev) |
+| 🌐 **Full‑Stack Web Development** | [![Web](https://skillicons.dev/icons?i=react,nodejs,express,html,css&perline=7)](https://skillicons.dev) |
 | 🗄️ **Databases** | [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7)](https://skillicons.dev) |
 | 📊 **Data Science & Visualization** | [![Data](https://skillicons.dev/icons?i=py,sklearn&perline=7)](https://skillicons.dev) `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Tableau` · `Streamlit` |
 | 🧰 **Tools & Platforms** | [![Tools](https://skillicons.dev/icons?i=git,github,matlab,arduino,netlify&perline=7)](https://skillicons.dev) |
-
+-->
 ### 🧠 Tech Stack
 
 <table align="center">
@@ -86,6 +86,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
     <td align="center">
       <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="40" height="40" />
       <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="SQL" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="Supabase" width="40" height="40" />
     </td>
   </tr>
 
@@ -96,6 +97,7 @@ I love creating things that blend **logic, design, and real-world utility** — 
       <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="40" height="40" />
       <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40" />
+      <img src="https://assets.zenml.io/webflow/64a817a2e7e2208272d1ce30/a87bf467/66d869586acd2fac3976e2b4_lightgbm.png" alt="LightGBM" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
       <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" alt="Plotly" width="40" height="40" />
