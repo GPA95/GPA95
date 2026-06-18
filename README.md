@@ -3,23 +3,26 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=CSE+Junior;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Natural+Language+Processing;Generative+AI;Full-Stack+Web+Development;Research+%26+Projects" 
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=CSE+Senior;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Natural+Language+Processing;Generative+AI;Full-Stack+Web+Development;Research+%26+Projects" 
     alt="Typing SVG" />
   </a>
 </h1>
 
 ### 🚀 About Me
 
-I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
-I love creating things that blend **logic, design, and real-world utility** — AI‑powered study tools, analytics dashboards, and practical web apps.
+I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science and Software Development** to build intelligent, impactful systems.  
+I love creating things that blend **logic, design and real-world utility** — AI‑powered study tools, analytics dashboards and practical web apps.
 
-- 🌟 Top Project: **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*  
-- 🌱 Learning: **Machine Learning**, **Natural Language Processing**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
-- 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
+- 🌟 Top Projects:
+  - **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*, used by 100+ students around the world
+  - **F1 Pit Stop Prediction (Kaggle)** – a LightGBM model on tabular F1 race data to predict next‑lap pit stops, achieving 0.9454 ROC AUC
+  - **TEDxIUL** – A collaborative event website prototype for the first TEDx edition at Integral University
+- 🌱 Learning: **Machine Learning**, **Natural Language Processing**, **Backend Development**, **Cloud Deployment** and **AI Agents**  
+- 💡 Interests: **AI**, **Data Science**, **Full-Stack Web Dev**, **Robotics Software**  
 - 🎯 Goal: Build projects that merge **innovation with practicality**  
-- 💬 Fun Fact: Every repo I make reflects my journey — _learning ➡️ building ➡️ deployment_.
-- 🤝 Open to: project collaborations, data/AI internships, and AI‑driven edtech ideas.
-> _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
+- 💬 Fun Fact: Every repo I make reflects my journey — _learning ➡️ building ➡️ deployment_
+- 🤝 Open to: project collaborations, data/AI internships and AI‑driven research ideas
+> _“I aspire to be productive, collaborative and inspirational.”_ 🌟
 
 ---
 
@@ -128,30 +131,36 @@ I love creating things that blend **logic, design, and real-world utility** — 
 
 ### 💼 Featured Projects
 
+🎤 [**TEDxIntegral University – Event Website**](https://github.com/GPA95/TEDxIUL)  
+  A collaborative event website prototype for the **first TEDx edition at Integral University**, featuring responsive layout, venue map, React components and content aligned with _official TEDx branding guidelines_ and live deployment
+
+🏎️ [**F1 Pit Stop Prediction (Kaggle)**](https://github.com/GPA95/F1_Pitstop_Predictor)  
+  ML model for _binary classification_ using **LightGBM on tabular F1 race data** to predict whether a driver will pit on the next lap
+
 🧠 [**SGPA: Study Guide & Personal Assistant**](https://github.com/GPA95/SGPA)  
-  AI‑powered study assistant for _summarizing notes, generating quizzes, and explaining topics_ using **Streamlit + Gemini API**.  
+  AI‑powered study assistant for _summarizing notes, generating quizzes and explaining topics_ using **Streamlit + Gemini API**
 
 📈 [**Online Retail Data Viz**](https://github.com/GPA95/Online_Retail_Data_Viz)  
-  Retail transaction analytics dashboard using **Tableau & Python**.
+  Retail transaction analytics dashboard using **Tableau & Python**
   
 🧳 [**Tourism Dataset Analytics**](https://github.com/GPA95/Tourism-Dataset-Analytics)  
-  Tourism data analysis using **Pandas, NumPy, and Matplotlib**.
+  Tourism data analysis using **Pandas, NumPy and Matplotlib**
   
 🌍 [**AAK Portfolio**](https://github.com/GPA95/AAK_Portfolio)  
-  Responsive **React.js portfolio** with theme switching, categorized skills, and project showcases.  
+  Responsive **React.js portfolio** with theme switching, categorized skills and project showcases
 
 🤖 [**Spherical Robot**](https://github.com/abdulmalik812/Spherical_Robot)  
-  MATLAB & Simulink-based mobile robot controlled via Android app.  
+  MATLAB & Simulink-based mobile robot controlled via Android app
 
 🛒 [**ESHOP**](https://github.com/GPA95/ESHOP)  
-  Python + SQL-based e-commerce platform with user login, cart, and product management.  
+  Python + SQL-based e-commerce platform with user login, cart and product management 
 
 ---
 
 ### 💡 Project Ideas & In-Progress Work
 
 - Evolving AI Study Buddy into a more personalized, multi‑tool learning companion.
-- Designing a Study Materials platform for notes, PYQs, and solutions.
+- Designing a Study Materials platform for notes, PYQs and solutions.
 - Exploring a college management/academic tracker inspired by my Notion workflows.
 
 <!--
@@ -163,12 +172,12 @@ Next steps:
 - Modular UI with topic-specific AI tools  
 
 #### 📚 **Study Materials Website**
-Community-based platform for sharing **notes, books, past papers, and solutions**.  
+Community-based platform for sharing **notes, books, past papers and solutions**.  
 Aims for **smart content organization** and **AI-driven search**.  
 
 #### 🏫 **School / College Management App**
 Evolving from my Notion-based dashboard — a **full-stack academic tracker** that automates student workflows:  
-📅 Timetables, assignments, quizzes, and faculty info  
+📅 Timetables, assignments, quizzes and faculty info  
 🔔 Notifications and academic reminders  
 🧾 Performance visualization & progress tracking  
 -->
@@ -189,6 +198,3 @@ I’m always open to collaboration, networking, or friendly discussions about te
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
