@@ -33,14 +33,10 @@ I love creating things that blend **logic, design and real-world utility** — A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GPA95&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPA95&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPA95&theme=tokyonight" height="160" />
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GPA95&theme=flat&column=6&margin-w=10&margin-h=10" />
-</div>
 
 ---
 <!--
