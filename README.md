@@ -15,7 +15,7 @@ I love creating things that blend **logic, design and real-world utility** — A
 
 - 🌟 Top Projects:
   - **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*, used by 100+ students around the world
-  - **F1 Pit Stop Prediction (Kaggle)** – a LightGBM model on tabular F1 race data to predict next‑lap pit stops, achieving 0.9454 ROC AUC
+  - **F1 Pit Stop Prediction (Kaggle)** – an ML model on tabular F1 race data to predict next‑lap pit stops, achieving 0.9454 ROC AUC
   - **TEDxIUL** – A collaborative event website prototype for the first TEDx edition at Integral University
 - 🌱 Learning: **Machine Learning**, **Natural Language Processing**, **Backend Development**, **Cloud Deployment** and **AI Agents**  
 - 💡 Interests: **AI**, **Data Science**, **Full-Stack Web Dev**, **Robotics Software**  
